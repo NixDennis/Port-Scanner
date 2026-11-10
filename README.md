@@ -2,8 +2,6 @@
 
 A lightweight TCP port scanner written in pure Python. It checks a list of common ports on a target, names the service that usually runs on each one, and grabs a banner when the service answers.
 
-Part of my cybersecurity learning journey. More labs, notes and TryHackMe progress: [Cyber-Lab](https://github.com/NixDennis/Cyber-Lab).
-
 ---
 
 ## How it works
@@ -90,7 +88,7 @@ Scan complete.
 
 ## Credits
 
-Original code © 2026 Bighiu Rares ([@Raresney](https://github.com/Raresney)).
+Built by Ignat Denis ([@NixDennis](https://github.com/NixDennis)) with help from Bighiu Rares ([@Raresney](https://github.com/Raresney)).
 
 ---
 
